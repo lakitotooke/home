@@ -1,0 +1,208 @@
+<style type="text/css">
+@media only screen and (min-width: 600px) {
+  .bank {
+	text-align: center;
+	width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+}
+@media only screen and (max-width: 600px){
+#myModal{
+display:none;
+}
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/XsdWRCX/bca-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(1) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/J2bnDxH/bca-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(1) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/S3QR84N/bca-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(2) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/LgjfJfb/bri-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(2) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/K765W84/bri-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(2) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/YLVY3dD/bri-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+
+    .owl-wrapper .owl-item:nth-child(3) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/XCS6Ft0/bni-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(3) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/fQY9jRH/bni-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(3) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/ysBYNsJ/bni-rro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+
+    .owl-wrapper .owl-item:nth-child(4) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/Yy6ZLLW/danamon-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(4) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/4d0cr3V/danamon-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(4) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/P6TP64F/danamon-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(8) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/bbybW0r/dana-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(8) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/tPjMLNR/dana-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(8) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/Ht90cTZ/dana-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(7) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/fXzzvy5/gopay-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(7) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/6PX4KPn/gopay-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(7) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/0QXXJ0D/gopay-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(9) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/qWv8qGZ/link-aja-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(9) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/2s7bhm8/link-aja-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(9) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/w0sphkp/link-aja-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(10) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/jDwFq0p/bsi-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(10) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/c28DbHp/bsi-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(10) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/w457zFX/bsi-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(6) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/MkfPbDT/ovo-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(6) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/yncntPd/ovo-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(6) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/S3s7ZmT/ovo-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/0qTPtqd/permata-on.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+
+    .owl-wrapper .owl-item:nth-child(5) .bank .offline {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/W2GRbXr/permata-off.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }
+    .owl-wrapper .owl-item:nth-child(5) .bank .trouble {
+        width: 145px !important;
+        height: 94px !important;
+        background: url('https://i.ibb.co/PDDc7wW/permata-tro.gif') 0px 0px no-repeat !important;
+        background-size: 100% !important;
+    }

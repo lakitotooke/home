@@ -32,17 +32,12 @@ color: #0b0b0b;
 
 }
 
-.result-pool {
-font-size: 16px;
-float: left !important;
-font-wight: bolder;
-color: #FFFFFF;
-
-}
 
 .results > h4 > i {
     color: #0b0b0b !important;
 background: none !important;
+font-size: 16px;
+font-wight: bolder;
 background-color: #0b0b0b;
 -webkit-text-fill-color: #FFD700 !important;
 }

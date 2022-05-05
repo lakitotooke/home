@@ -32,6 +32,14 @@ color: #0b0b0b;
 
 }
 
+.results-pool {
+  font-size: 16px;
+  font-weight: bolder;
+  float: left !important;
+  color: #fff;
+
+}
+
 
 .results > h4 > i {
     color: #0b0b0b !important;

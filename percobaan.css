@@ -36,7 +36,7 @@ color: #0b0b0b;
     color: #0b0b0b !important;
 background: none !important;
 background-color: #0b0b0b;
--webkit-text-fill-color: #ff0000 !important;
+-webkit-text-fill-color: #FFD700 !important;
 }
 
 h4 {
@@ -55,7 +55,7 @@ color: #ff0000;
 
 .blog-sidebar .nav.menu > li > a {
     color: #dadada !important;
-    border-bottom: 1px solid #ff0000 !important;
+    border-bottom: 1px solid #FFD700 !important;
     font-size: 18px
 }    
 

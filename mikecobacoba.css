@@ -63,6 +63,7 @@ background: #ff0000
     color: #dadada !important;
     border-bottom: 1px solid #ff0000 !important;
     font-size: 18px
+    font-weight: bolder;
 }    
 
 .section .container {

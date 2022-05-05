@@ -61,7 +61,7 @@ background: #ff0000
     color: #dadada !important;
     border-bottom: 1px solid #ff0000 !important;
     font-size: 18px
-    font-weight: bolder;
+	    
 }    
 
 .section .container {
@@ -81,3 +81,12 @@ background: #ff0000
 
 .news-body {
     background: #0b0b0b}
+
+
+}
+.btn-group.custom-navigations button,
+.btn-group.custom-navigations .btn,
+.btn-group.custom-navigations button:focus,
+.btn-group.custom-navigations .btn:focus {
+  background-color: #b33a3a;
+  border: 1px solid #fff;

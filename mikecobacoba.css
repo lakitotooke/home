@@ -32,12 +32,9 @@ color: #ff0000;
 
 }
 
-
 .results > h4 > i {
     color: #ff0000 !important;
 background: none !important;
-font-size: 16px;
-font-wight: bolder;
 background-color: #0b0b0b;
 -webkit-text-fill-color: #FFD700 !important;
 }

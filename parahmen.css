@@ -1,77 +1,185 @@
-.navbar-fixed-top {
-    background-color: #0b0b0b;
-    border: #0b0b0b;
+}
+
+.col-md-9 .owl-wrapper-outer .owl-item {
+
+    float: left;
+
+    width: 155px !important;
+    background-color: #401403;
+}
+
+.owl-carousel {
+
+    margin-left: 1px !important;
+    background-color: #401403;
 
 
 }
 
-body {
-background: #0b0b0b url("https://3.bp.blogspot.com/-Hb5mlwEe-5U/XK74qzZGssI/AAAAAAAAAwY/ksu-TgW5ASgKY2EO2xi1eoxXZ49GRmSxwCLcBGAs/s1600/sempel%2Bbg.jpg") center no-repeat !important;
-background-size: 100% 100% !important;
-background-attachment: fixed !important;
-}
 
-#footer {
-background-color: rgba(0,0,0,0.6) !important;
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+
+    content: url("https://4.bp.blogspot.com/-JXH6J7_Eo2s/Wyy_7a_q1UI/AAAAAAAAOMc/_enBJbyLgA4RQZJ97_5xbtvQ1RtqAli7gCLcBGAs/s1600/unnamed%2B%25285%2529.gif") !important;
 
 }
 
-.btn.btn-theme {
- background: rgba(255,0,0);
-background: -moz-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,0,0)), color-stop(100%, rgba(236,36,36))) !important;
-background: -webkit-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
-background: -o-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
-background: -ms-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
-background: linear-gradient(to bottom, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', endColorstr='#e3d6aa', GradientType=0 ) !important;
-}
 
-.results {
-color: #fb0101;
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+
+    content: url("https://3.bp.blogspot.com/-fmpCOPBz9mU/WyzABGqQadI/AAAAAAAAOMg/75qqybruYqEe2Wp4CyW0zHGjikPTM7_SACLcBGAs/s1600/unnamed%2B%252818%2529.gif") !important;
 
 }
 
-.results > h4 > i {
-    color: #dadada !important;
-background: none !important;
--webkit-text-fill-color: #ff0000 !important;
-}
 
-h4 {
-	color: #dadada !important;
 
-}
-.results-detail{
-color: #ff0000;
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+
+    content: url("https://3.bp.blogspot.com/-grqet3dL3ew/Wyy_pRlUvNI/AAAAAAAAOMU/9EpfzS41QboF1bYyggcv-pGMY80XrtKigCLcBGAs/s1600/unnamed%2B%25289%2529.gif") !important;
 
 }
 
-.blog-sidebar .nav.menu > li > a > i {
-    
-    color: #ff0000 !important;
-}
 
-.blog-sidebar .nav.menu > li > a {
-    color: #dadada !important;
-    border-bottom: 1px solid #ff0000 !important;
-    font-size: 18px
-}    
 
-.section .container {
-    background: #0b0b0b !important;
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+
+    content: url("https://2.bp.blogspot.com/-Hwxy_mLj9zo/WyzAHWREgBI/AAAAAAAAOMk/W0L8HPsB9JIfHw-ZPucPHo0KFDOtMEWLACLcBGAs/s1600/unnamed%2B%252811%2529.gif") !important;
 
 }
 
-.news-detail {
-color: #ff0000;
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+
+    content: url("https://3.bp.blogspot.com/-L9nFCPKOw1E/WyzAQ1gnjDI/AAAAAAAAOMw/7noZWfuw3GQlJktnLpZoXfwz-6gisd0LwCLcBGAs/s1600/unnamed%2B%252810%2529.gif") !important;
 
 }
 
-.news-head {
-    background: #0b0b0b;
-    height: 35px;
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+
+    content: url("https://2.bp.blogspot.com/-7H9uo07b7Mg/WyzAb3juRFI/AAAAAAAAOM4/m-CoRX_vIHc6CViD7XDhwGteNIrAUI03wCLcBGAs/s1600/unnamed%2B%252819%2529.gif") !important;
+
 }
 
-.news-body {
-    background: #0b0b0b}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+
+    content: url("https://1.bp.blogspot.com/-Xw4u_n0zTiQ/WyzAkIdUYKI/AAAAAAAAONA/eiuv0xtu_xIgWqU9xH9UKSpAvhVm_mjPwCLcBGAs/s1600/unnamed%2B%252820%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+
+    content: url("https://1.bp.blogspot.com/-_S6af2DH0NE/Wy3TLUGJ4bI/AAAAAAAAOPE/7f3UayvnJagu38VO8YXEbUx-WUVwS83LgCLcBGAs/s1600/unnamed%2B%252822%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+
+    content: url("https://2.bp.blogspot.com/-Me9JyM0Ly1g/WyzA13ROogI/AAAAAAAAONM/0kD3Zf05t446v5sANTg8bbYOCz-f0WZ2wCLcBGAs/s1600/unnamed%2B%252812%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+
+    content: url("https://2.bp.blogspot.com/-dDqxje-MgrA/WyzELMSuDyI/AAAAAAAAOOw/pWu3t9CYTeE-q-YtyxJVmSBQy7B9ZK6kwCLcBGAs/s1600/unnamed%2B%252813%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+
+    content: url("https://1.bp.blogspot.com/-aLRldvUhMrs/WyzEGZaVJtI/AAAAAAAAOOo/YY0huocLxqoiWU82zsqv97JqjP8Gzcq7gCLcBGAs/s1600/unnamed%2B%25283%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+ 
+    content: url("https://3.bp.blogspot.com/-jOZg9G7ii1c/WyzD9XYaCyI/AAAAAAAAOOg/gDyhOii98N8o-tvQGLAJ7Ho2jojnHFYRgCLcBGAs/s1600/unnamed%2B%25288%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+
+    content: url("https://1.bp.blogspot.com/-8ndlx16hIVk/WyzD3bGMjWI/AAAAAAAAOOc/0iSw22MRe6kwfyy06PEKe0KuMAVVTD5NgCLcBGAs/s1600/unnamed%2B%252821%2529.gif") !important;
+
+}
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+
+    content: url("https://4.bp.blogspot.com/-mP0F5yvlxHE/WyzDwDyTEjI/AAAAAAAAOOY/-qfrOaJqEBU0OX40HAeq3lzECB2YV56xwCLcBGAs/s1600/unnamed%2B%25287%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+
+    content: url("https://4.bp.blogspot.com/-Y9kRauopUMg/WyzCbNzKEQI/AAAAAAAAOOI/_skTOGCNidUjJjWGYzI_FPh8CDqXK7a4QCLcBGAs/s1600/unnamed%2B%252814%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+
+    content: url("https://4.bp.blogspot.com/-qYqwF1YwV6k/WyzCVvriuUI/AAAAAAAAOOE/yYxsf3e6RfUQdtXku9aRo0NeAlw-CSZRQCLcBGAs/s1600/unnamed.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+
+    content: url("https://2.bp.blogspot.com/-3dx3pW2cyyA/WyzCOGou6HI/AAAAAAAAOOA/Ga362KzYMOUP-PCHIca08Euw2oxnrRZiQCLcBGAs/s1600/unnamed%2B%252815%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+
+    content: url("https://3.bp.blogspot.com/-VfoxH0h5PkU/WyzCFugFyeI/AAAAAAAAON4/ah2zgFX2rlAjpesSE6Iji0fVqU3e4QTgACLcBGAs/s1600/unnamed%2B%25281%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+
+    content: url("https://2.bp.blogspot.com/-ovB7hk6j3-o/WyzB6SbWkOI/AAAAAAAAONw/SJuRki6QtncamHQVzbE1_FEb0Bzg0TEJACLcBGAs/s1600/unnamed%2B%25282%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+
+    content: url("https://2.bp.blogspot.com/-Pbim7BdDBRE/WyzByy2_x7I/AAAAAAAAONo/2g6DfeTWQ3YVYyYFmalmMA1Ju_dRKxbwQCLcBGAs/s1600/unnamed%2B%252817%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+
+    content: url("https://1.bp.blogspot.com/-H_2T8LjAbXc/WyzBsTUFGAI/AAAAAAAAONg/UWNq5PqEjeEK4gyRBiDO9bcbIkQ9BxcfgCLcBGAs/s1600/unnamed%2B%252816%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+
+    content: url("https://4.bp.blogspot.com/-yO8zV-TWzAw/WyzBni0bJYI/AAAAAAAAONc/PBadgKEbAUoeTObQCwtYuzMHIEdsiOBigCLcBGAs/s1600/unnamed%2B%25286%2529.gif") !important;
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+
+    content: url("https://1.bp.blogspot.com/-sZyJ-7Jeryw/WyzBiYBwc8I/AAAAAAAAONY/psHv-W2F6Sg1RaEFHQI5ww4P-J9ASx59ACLcBGAs/s1600/unnamed%2B%25284%2529.gif") !important;
+
+}

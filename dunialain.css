@@ -53,7 +53,7 @@
     .button-blue,
     .button-green,
     .button-yellow {
-        background-image: linear-gradient(to right, #7d1210, #a71010);
+        background-image: linear-gradient(to right, #eba71e, #a71010);
         box-shadow: none;
         border: none;
     }

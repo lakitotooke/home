@@ -1,7 +1,7 @@
 <style>
     .button-jp {
-        background: linear-gradient(to left, #39bddb, #ffff00);
-        color: #ffffff;
+        background: linear-gradient(to left, #39bddb, #1df5f1);
+        color: #1df5f1;
         box-shadow: none;
         border: none;
     }
@@ -16,7 +16,7 @@
     }
 
     #close_button:hover {
-        color: #ffcc00;
+        color: #1df5f1;
     }
 
     input[type="submit"],

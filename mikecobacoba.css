@@ -1,6 +1,6 @@
 .navbar-fixed-top {
-    background-color: #a80000;
-    border: #0b0b0b;
+    background-color: a80000a3;
+    border: #0b0b0b
 
 
 }
@@ -62,7 +62,7 @@ background: #e90b0b
 }    
 
 .section .container {
-    background: #a80000 !important;
+    background: a80000a3 !important;
 
 }
 

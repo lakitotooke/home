@@ -1,5 +1,5 @@
 .navbar-fixed-top {
-    background-color: #0b0b0b;
+    background-color: #a80000;
     border: #0b0b0b;
 
 
@@ -28,47 +28,47 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', end
 }
 
 .results {
-color: #ff0000;
+color: #ffffff;
 
 }
 
 .results > h4 > i {
     color: #ff0000 !important;
 background: none !important;
-background-color: #0b0b0b;
--webkit-text-fill-color: #FFD700 !important;
+background-color: #880000;
+-webkit-text-fill-color: #f1e1a4 !important;
 }
 
 h4 {
-	color: #dadada !important;
+	color: #ffffff !important;
 
 }
 .results-detail{
-color: #ff0000;
-background: #ff0000
+color: #760000;
+background: #e90b0b
 
 }
 
 .blog-sidebar .nav.menu > li > a > i {
     
-    color: #FFD700 !important;
+    color: #f1e1a4 !important;
 }
 
 .blog-sidebar .nav.menu > li > a {
-    color: #dadada !important;
-    border-bottom: 1px solid #ff0000 !important;
+    color: #ffffff !important;
+    border-bottom: 1px solid #ffffff !important;
     font-size: 18px
 	    
 }    
 
 .section .container {
-    background: #0b0b0b !important;
+    background: #a80000 !important;
 
 }
 
 .news-detail {
-color: #ff0000;
-background: #ff0000
+color: #880000;
+background: #e90b0b
 }
 
 .news-head {
